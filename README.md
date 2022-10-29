@@ -1,1 +1,1 @@
-An app with fifa interface using an api.
+An app with fifa interface using elena api and retrofit.
