@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FIFA</string>
+    <string name="hello">Hello</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="time">Time</string>
+    <string name="match_name">Match Name</string>
+    <string name="fifa_world_cup_2022">FIFA World Cup 2022</string>
+</resources>
